@@ -1,0 +1,55 @@
+/* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 100px;
+      color: #5a5a5a;
+    }
+
+    .navbar {
+      margin-bottom: 0px;
+    }
+
+    /* MARKETING CONTENT
+    -------------------------------------------------- */
+
+    /* Center align the text within the three columns below the carousel */
+    .marketing .container {
+      text-align: center;
+    }
+
+    .marketingitem {
+      padding-bottom: 40px;
+    }
+    .marketing h2 {
+      font-weight: normal;
+    }
+    .marketing p {
+      margin-left: 10px;
+      margin-right: 10px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+
+    .jumbotron {
+      margin-bottom: 60px;
+      background: -webkit-linear-gradient(left top, #6749D7 , #1D0772); /* For Safari 5.1 to 6.0 */
+      background: -o-linear-gradient(bottom right, #6749D7, #1D0772); /* For Opera 11.1 to 12.0 */
+      background: -moz-linear-gradient(bottom right, #6749D7, #1D0772); /* For Firefox 3.6 to 15 */
+      background: linear-gradient(to bottom right, #6749D7 , #1D0772); /* Standard syntax (must be last) */
+    }
+
+    .jumbotron h1, h2 {
+      color: #FFA700;
+    }
+
+    .jumbotron p {
+      /*color: #3F2D84;*/
+      /*color: #FFFC00;*/
+      color: #BFBD30;
+    }
+
+    .featurette {
+      margin: 3%;
+    }
